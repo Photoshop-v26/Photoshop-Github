@@ -1,1 +1,1 @@
-photoshop cracked | adobe photoshop 2025
+# 🚀 **photoshop cracked** | **adobe photoshop 2025**
