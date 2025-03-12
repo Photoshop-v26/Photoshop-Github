@@ -1,4 +1,4 @@
-## **photoshop cracked** | **adobe photoshop 2025** 🖌️📷
+## **Photoshop Cracked** | **Adobe Photoshop 2025** 🖌️📷
 
 ## Project Description.
 **Adobe Photoshop ** is a powerful image editing software used by professionals and enthusiasts alike. This guide provides information on how to download Adobe Photoshop for free, as well as tips on how to effectively utilize its features.
